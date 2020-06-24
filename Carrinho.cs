@@ -13,13 +13,13 @@ namespace Carrinho
         List<Produto> carrinho = new List<Produto>();
 
         //Variável para a adição do produto.
-        public void Adicionar(Produto produto)
+        public void AdicionarProduto(Produto produto)
         {
             carrinho.Add(produto);
         }
 
         //Variável para a exclusão de um ou mais produtos.
-        public void Excluir(Produto produto)
+        public void ExcluirProduto(Produto produto)
         {
             carrinho.Remove(produto);
         }
@@ -41,7 +41,7 @@ namespace Carrinho
         //Valor total dos produtos.
         public void MostrarValorTotal()
         {
-            Console.ForegroundColor = ConsoleColor.DarkBlue;
+            Console.ForegroundColor = ConsoleColor.Green;
             
             if(carrinho != null){
 
@@ -50,7 +50,7 @@ namespace Carrinho
                 ValorTotal += p.Preco;
 
                 }   
-            Console.WriteLine($"O valor total é igual a: {ValorTotal}");
+            Console.WriteLine($"\nO valor total é igual a: {ValorTotal}");
             Console.ResetColor();
 
             }else{

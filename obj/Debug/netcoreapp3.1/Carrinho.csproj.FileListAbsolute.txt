@@ -1,0 +1,13 @@
+C:\Users\Yokogawa\Documents\Projetos (treino)\Carrinho\bin\Debug\netcoreapp3.1\Carrinho.exe
+C:\Users\Yokogawa\Documents\Projetos (treino)\Carrinho\bin\Debug\netcoreapp3.1\Carrinho.deps.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\Carrinho\bin\Debug\netcoreapp3.1\Carrinho.runtimeconfig.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\Carrinho\bin\Debug\netcoreapp3.1\Carrinho.runtimeconfig.dev.json
+C:\Users\Yokogawa\Documents\Projetos (treino)\Carrinho\bin\Debug\netcoreapp3.1\Carrinho.dll
+C:\Users\Yokogawa\Documents\Projetos (treino)\Carrinho\bin\Debug\netcoreapp3.1\Carrinho.pdb
+C:\Users\Yokogawa\Documents\Projetos (treino)\Carrinho\obj\Debug\netcoreapp3.1\Carrinho.csprojAssemblyReference.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\Carrinho\obj\Debug\netcoreapp3.1\Carrinho.csproj.CoreCompileInputs.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\Carrinho\obj\Debug\netcoreapp3.1\Carrinho.AssemblyInfoInputs.cache
+C:\Users\Yokogawa\Documents\Projetos (treino)\Carrinho\obj\Debug\netcoreapp3.1\Carrinho.AssemblyInfo.cs
+C:\Users\Yokogawa\Documents\Projetos (treino)\Carrinho\obj\Debug\netcoreapp3.1\Carrinho.dll
+C:\Users\Yokogawa\Documents\Projetos (treino)\Carrinho\obj\Debug\netcoreapp3.1\Carrinho.pdb
+C:\Users\Yokogawa\Documents\Projetos (treino)\Carrinho\obj\Debug\netcoreapp3.1\Carrinho.genruntimeconfig.cache
